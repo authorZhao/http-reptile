@@ -1,0 +1,165 @@
+
+{
+  "data": [
+    {
+      "cardType": 1,
+      "bankCode": "ICBC",
+      "bankName": "中国工商银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CCB",
+      "bankName": "中国建设银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "ABC",
+      "bankName": "中国农业银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "BOC",
+      "bankName": "中国银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CMB",
+      "bankName": "招商银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "BCOM",
+      "bankName": "交通银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "PSBC",
+      "bankName": "中国邮政储蓄银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CEB",
+      "bankName": "中国光大银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CIB",
+      "bankName": "福建兴业银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "SPDB",
+      "bankName": "上海浦东发展银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "GDB",
+      "bankName": "广东发展银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CMBC",
+      "bankName": "中国民生银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CNCB",
+      "bankName": "中信实业银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "PAB",
+      "bankName": "平安银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "RCB",
+      "bankName": "农村商业银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "HXB",
+      "bankName": "华夏银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "HSCB",
+      "bankName": "徽商银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "HSB",
+      "bankName": "恒生银行 "
+    },
+    {
+      "cardType": 1,
+      "bankCode": "HSBC",
+      "bankName": "汇丰银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CBHB",
+      "bankName": "渤海银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "EBCL",
+      "bankName": "恒丰银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CZB",
+      "bankName": "浙商银行 "
+    },
+    {
+      "cardType": 1,
+      "bankCode": "BEA",
+      "bankName": "东亚银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "CITI",
+      "bankName": "花旗银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "SC",
+      "bankName": "渣打银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "DBS",
+      "bankName": "星展银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "WHSZ",
+      "bankName": "永亨银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "BA",
+      "bankName": "美国银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "TMSH",
+      "bankName": "三菱东京日联银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "MH",
+      "bankName": "日本瑞穗实业银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "DB",
+      "bankName": "德意志银行"
+    },
+    {
+      "cardType": 1,
+      "bankCode": "FSBK",
+      "bankName": "华一银行"
+    }
+  ]
+}
